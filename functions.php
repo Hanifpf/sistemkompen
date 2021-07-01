@@ -1,6 +1,6 @@
 <?php 
 //koneksi ke database
-$conn = mysqli_connect("localhost","root", "", "phpkompen");
+$conn = mysqli_connect("remotemysql.com","SFyFkndUAF", "Ooxgk0Plaq", "SFyFkndUAF");
 
 
 
